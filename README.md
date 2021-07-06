@@ -1,16 +1,17 @@
-### Hi there 👋
+# Greetings 🖖
+
+Alright, time to load up my `README.md` with a boatlod of emoji's like every other BASIC programmer out there 💁. Just kidding, let's show at least a _little_ class 🎩.
+
+Here are my [dotfiles](https://github.com/Maxattax97/miscellaneous) if you're looking for them. It's probably the single repo I touch most. I use the h\*ck out of neovim, tmux, bspwm, weechat, and zsh if that's your thing (let's face it, I'm the average Arch user you'll find on on IRC). Oh and here's [my website](https://maxocull.com/), sometimes I post techy stuff.
 
 <!--
-**Maxattax97/Maxattax97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Big Projects
+ - 
 
-Here are some ideas to get you started:
+## Nifty Tools
+ - [LastFM Love Aggregator](https://github.com/Maxattax97/lastfm-love-aggregator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Useful Libraries
+
+## Hopeful Experiments
 -->
