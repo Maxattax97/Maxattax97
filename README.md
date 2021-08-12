@@ -4,7 +4,7 @@ Here are my [dotfiles](https://github.com/Maxattax97/miscellaneous) if you're lo
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxattax97&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Max's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxattax97&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxattax97&show_icons=true&hide=html,css&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Big Projects
